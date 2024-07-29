@@ -1,0 +1,21 @@
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 100vh;
+
+    background-color: rgb(233, 236, 180);
+    gap: 10px;
+}
+
+
+.input{
+    height: 54px;
+    width: 28%;
+}
+
+.gap{
+    margin: 2px;
+    padding: 4px;
+}
